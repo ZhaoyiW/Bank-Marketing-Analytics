@@ -36,7 +36,7 @@ A Jupyter Notebook for data wrangling and exproratory data analysis.
 ### modeling.ipynb
 - Data preparation for classification models
 - Five models were used to classify the data
-Best model is Logistic Regression with an accuracy of 89.44%.
+Best model is Logistic Regression with an accuracy of 89.63%.
 
 ## License
 This project is licensed under [MIT License](https://github.com/git/git-scm.com/blob/master/MIT-LICENSE.txt).
